@@ -1,0 +1,15 @@
+.container {
+  display: table;
+  width: 100%;
+}
+
+.jumbotron {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.thumbnail {
+
+ background-color: white
+}
